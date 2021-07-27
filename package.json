@@ -18,5 +18,7 @@
   "bugs": {
     "url": "https://github.com/KimFrans/bootcamp-terminal-tests/issues"
   },
-  "homepage": "https://github.com/KimFrans/bootcamp-terminal-tests#readme"
+  "homepage": "https://github.com/KimFrans/bootcamp-terminal-tests#readme",
+  "devDependencies": {
+    "mocha": "^9.0.2"  }
 }
